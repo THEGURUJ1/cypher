@@ -1,0 +1,5 @@
+groq
+pillow
+transformers
+torch
+google-colabs
